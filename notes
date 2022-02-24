@@ -1,0 +1,17 @@
+1.Positions: absolue relative fixed sticky
+    default position is static  
+
+    position: absolute;
+    left: 100px;--  box ias moving according to its browser position
+
+    position: relative;
+    left: 100px;--box ias moving according to its parent position
+
+    sticjy: is combination of relative and fixed wrt parent
+
+
+    Explain absolute and relative position by using example and with words as well -->
+      
+
+      <!-- Q 2 : Explain the difference between fixed and sticky -->
+8
